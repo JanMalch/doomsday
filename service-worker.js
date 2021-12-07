@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.cc660e202a61197f84d3ae5c18900266.js"
+  "/doomsday/precache-manifest.8432f05b2ed612392c4d29cd737c53d6.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "doomsday"});
