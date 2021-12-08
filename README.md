@@ -1,29 +1,8 @@
-# doomsday
+# the doomsday rule <a href="https://www.github.com/JanMalch/doomsday"><img src="https://raw.githubusercontent.com/JanMalch/doomsday/master/.github/assets/logo.png" width="90" height="90" align="right"></a>
 
-## Project setup
-```
-npm install
-```
+[![Deploy](https://github.com/JanMalch/doomsday/workflows/Deploy/badge.svg)][deploy-url]
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+<i>A small Vue app to demonstrate and practice the [doomsday rule](https://en.wikipedia.org/wiki/Doomsday_rule).</i>
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[deploy-url]: https://github.com/JanMalch/doomsday/actions?query=workflow%3ADeploy
